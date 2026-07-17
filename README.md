@@ -46,16 +46,6 @@ The complete scope of the **JMH System** spans across 8 structural domains:
 
 ---
 
-## 📅 Project Roadmap & Execution Timeline
-
-The delivery lifecycle is target-locked for **Early August** implementation:
-
-*   **27 June – 5 July:** Comprehensive UI/UX wireframing, component structuring, and Figma prototyping.
-*   **6 July – 31 July:** Core sprint phase (Component coding, database layout schemas, backend logic integration).
-*   **1 August – 5 August:** Code refactoring, UI polishing, debugging, and final application deployment builds.
-*   **10 August – 21 August:** Project Freeze / Academic Examination Period.
-
----
 
 ## 🚀 Compilation, Structure, and Execution Instructions
 
