@@ -4,7 +4,6 @@ Welcome to the official repository for the **JM Hockey (JMH)** Mobile Applicatio
 
 Built as a collaborative team software development project, the system integrates robust multi-role permissions to deliver tailored interfaces and real-time data metrics for different user tiers.
 
-🔗 **Official Website:** [Jiwa Hockey](https://jiwahockey.com)
 
 ---
 
