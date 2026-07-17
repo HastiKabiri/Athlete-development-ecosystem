@@ -19,13 +19,13 @@ The system architecture is divided across three core modules managed by specific
 *   **Player Profile System:** Digital ID generation, medical/injury logging, and institutional profiles.
 *   **Engagement & Feedback UI:** Visual widgets for attendance histories, fitness trends, badges/achievements, and coach notes.
 
-### 👥 Member 2 — Chia Soon
+### 👥 Member 2 
 **Assigned Focus:** Public Module + Parent Dashboard + Basic Admin Panel
 *   **Public Branding & Marketing:** Non-authenticated layouts featuring sponsor banners, news streams, galleries, and tournament schedules.
 *   **Parent Communication Hub:** Training fee payment tracking, live announcements, and direct child progress summaries.
 *   **Admin Panel (v1):** Basic user account CRUD operations and internal administrative dashboards.
 
-### 👥 Member 3 — Saw Shwe Sin Cho
+### 👥 Member 3 
 **Assigned Focus:** Coach Operations + Performance Analyst Module
 *   **Coach Management Tools:** Daily attendance marking mechanisms, training session templates, and player report grading grids.
 *   **Performance Analytics UI:** Match metric aggregations (goals, turnovers, intercepts) and simplified tracking breakdowns.
